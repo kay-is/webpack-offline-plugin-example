@@ -1,6 +1,6 @@
 # Webpack Offline Plugin Example
 
-A companion repository to this blog post.
+A companion repository to this [blog post](https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin).
 
 ## Setup
 
